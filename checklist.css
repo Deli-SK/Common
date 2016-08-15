@@ -1,0 +1,7 @@
+﻿.checklist { position: relative; background: #ffffff; }
+.checklist-preview { display: block; padding: 0 0 0 4px;}
+.checklist-menu { display: block; margin: 0; padding: 0; list-style: none; background: #ffffff; border: 1px solid #d3d3d3; }
+.checklist-menu-wrapper { position: absolute; width: 100%; z-index: 100; }
+.checklist-item { display: block; clear: both; }
+.checklist-item:hover { background: #d3d3d3; }
+.checklist-item-checked, .checklist-item-checked:hover{ background: #1e90ff; color: #ffffff; }
